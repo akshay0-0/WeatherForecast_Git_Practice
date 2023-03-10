@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Weather_Forecast_Example_With_EFCore.props" />
+</Project>

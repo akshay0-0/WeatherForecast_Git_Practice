@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pALeaxgGLL9S7EBVp9RuOYN8WUqF+feWnQ4mR9wX0oE=",
+  "Source": "Weather_Forecast_Example_With_EFCore",
+  "BasePath": "_content/Weather_Forecast_Example_With_EFCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
